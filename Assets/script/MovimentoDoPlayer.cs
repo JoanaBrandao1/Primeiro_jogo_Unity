@@ -1,6 +1,7 @@
 using UnityEngine;
 public class MovimentoDoPlayer : MonoBehaviour
 {
+    /* velocidade */
     public float speed;
 
     private Rigidbody2D rb;
